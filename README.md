@@ -1,1 +1,2 @@
 # speckEntryTask
+zadatak za Speck
