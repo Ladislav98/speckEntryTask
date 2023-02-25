@@ -12,6 +12,6 @@ If you want to remove all the text from the page, simply click the "Remove all i
 
 This page was created using HTML, CSS, and JavaScript.
 
-#Credits
+# Credits
 
 Project was created by Ladislav Žerjavić.
